@@ -27,4 +27,4 @@ We hope you have a great time and reach the top of the leaderboard. Start now an
 
 
 
-<img src="./picture.png">
+<img src="./picture.png" width="300px">
