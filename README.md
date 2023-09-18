@@ -26,5 +26,7 @@ The purpose of this game is to have fun and enhance your mental skills. Each gam
 We hope you have a great time and reach the top of the leaderboard. Start now and compete against luck!
 
 
+<div align="center">
+  <img src="./picture.png" width="600px">
+</div>
 
-<img src="./picture.png" width="300px">
